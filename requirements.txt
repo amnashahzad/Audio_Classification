@@ -1,0 +1,17 @@
+# Core Requirements
+streamlit==1.32.2
+numpy==1.26.4
+librosa==0.10.1
+matplotlib==3.8.3
+scipy==1.12.0
+sounddevice==0.4.6
+
+# Audio Processing Dependencies
+audioread==3.0.1
+resampy==0.4.2
+soundfile==0.12.1
+
+# Optional (for extended functionality)
+pydub==0.25.1  # For MP3 support
+tensorflow==2.15.0  # If you add ML models
+scikit-learn==1.4.0  # For traditional ML approaches
